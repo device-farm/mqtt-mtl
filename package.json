@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/device-farm/mqtt-mtl/issues"
   },
-  "homepage": "https://github.com/device-farm/mqtt-mtl#readme"
+  "homepage": "https://github.com/device-farm/mqtt-mtl#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
 }
