@@ -2,7 +2,7 @@
   "name": "@device.farm/mqtt-mtl",
   "version": "1.0.0",
   "description": "Selective multi-topic listener extension to mqtt library",
-  "main": "mqtt-mm.js",
+  "main": "mqtt-mtl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/device-farm/mqtt-mtl/issues"
   },
-  "homepage": "https://github.com/device-farm/mqtt-mtl#readme",
+  "homepage": "https://github.com/device-farm/mqtt-mtl#readme"
 }
